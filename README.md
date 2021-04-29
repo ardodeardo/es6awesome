@@ -49,7 +49,7 @@ es6awesome
 	```
 2. Get into cloned folder
 	```sh
-	cd es6aweseome
+	cd es6awesome
 	```
 3. Run the project
     You might use Visual Studio Code Live Server plugin as the easiest way to run this repo 
